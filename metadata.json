@@ -1,0 +1,6 @@
+{
+  "name": "Festival Beats - 文化祭ミュージッククリエイター",
+  "description": "文化祭・学園祭を最高潮に盛り上げるかっこいいオリジナル楽曲制作・演奏スタジオ。本格シンセ＆ドラム音源、ステージビジュアライザー、DJパッド、WAV書き出しに対応。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
